@@ -18,54 +18,6 @@ I'm a full-stack Engineer focused on building exceptional digital experiences. C
 
 I care deeply about design systems, performance, and creating products that people love to use.
 
-### What I'm Building
-
-<table>
-<tr>
-<td width="50%">
-
-#### 🤖 Vectix AI
-AI-powered interview preparation platform
-
-**Tech:** Next.js, TypeScript, OpenAI  
-**Status:** In Production  
-[→ Visit Site](https://vectix-ai.umeshnagare.com)
-
-</td>
-<td width="50%">
-
-#### 🌾 KrishiNET
-Contract farming marketplace platform
-
-**Tech:** JavaScript, MongoDB, REST API  
-**Status:** Live • 4★ • 3 forks  
-[→ View Project](https://krishinet.onrender.com)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-#### 💼 Portfolio
-Personal website and design playground
-
-**Tech:** Next.js, Tailwind, Framer Motion  
-**Status:** Live • 5★  
-[→ umeshnagare.com](https://umeshnagare.com)
-
-</td>
-<td width="50%">
-
-#### 🎨 Labs
-UI experiments and component library
-
-**Tech:** TypeScript, React, Design Systems  
-**Status:** Active Development  
-[→ View Experiments](https://github.com/Algoture/Labs)
-
-</td>
-</tr>
-</table>
 
 ### Tech Stack
 
