@@ -2,11 +2,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Umesh+Nagare;Full+Stack+Engineer;Design+Engineer;Backend+Engineer" alt="Typing SVG" />
 
-<p align="center">
-  <a href="https://umeshnagare.com">Website</a> •
-  <a href="mailto:umesh@umeshnagare.com">Email</a> •
-  <a href="https://www.linkedin.com/in/umesh27/">LinkedIn</a>
-</p>
 
 </div>
 
